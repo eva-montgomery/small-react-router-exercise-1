@@ -4,7 +4,7 @@ import React from 'react';
 function MyWork() {
     return (
         <div>
-        <h1>I love my job!</h1>
+        <h1>Work</h1>
         </div>
     )
 }
